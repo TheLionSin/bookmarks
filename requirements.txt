@@ -1,0 +1,2 @@
+werkzeug==2.2.2
+pyOpenSSL==22.0.0
